@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import LeftHeader from "./components/LeftHeader"
+import LeftHeader from "./components/LeftHeader.js"
 import MainContent from "./components/MainContent.js"
 
 function App() {

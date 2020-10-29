@@ -6,7 +6,7 @@ function LeftHeader() {
     <div>
       Hello World
       <br /><br />
-      jejej
+      hehehe
     </div>
   )
 }
