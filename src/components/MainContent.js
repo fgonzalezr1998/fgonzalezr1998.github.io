@@ -1,14 +1,14 @@
 import React from "react"
-import "../styles/left_header.css"
+import "../styles/main.css"
 
-function LeftHeader() {
+function MainContent() {
   return(
-    <div>
-      Hello World
+    <div id="main-content">
+      <h1>Hello, I'm Fernando</h1>
       <br /><br />
       hehehe
     </div>
   )
 }
 
-export default LeftHeader;
+export default MainContent;
