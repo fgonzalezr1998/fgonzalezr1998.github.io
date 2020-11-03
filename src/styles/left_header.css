@@ -1,14 +1,12 @@
 #left-header {
   background-color: #33383f;
-  display: block;
   float: left;
-  width: 285px;
+  /*width: 285px;*/
+  width: 20%;
   height: 100vh;
   text-align: center;
   align-items: center;
   color: #555e69;
-  float: left;
-  position: absolute;
   margin-top: -22px;
   padding-top: 0px;
 }

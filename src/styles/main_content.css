@@ -1,11 +1,11 @@
 
 #main-content {
-  width: 85%;
-  text-align: center;
-  margin-left: auto;
-  margin-right: 50px;
   padding-top: 0px;
   position: relative;
+  float: right;
+  width: 50%;
+  margin-right: 18%;
+  text-align: center;
 }
 
 h1 {
